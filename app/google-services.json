@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "762304605814",
+    "project_id": "dartplayer-94fe5",
+    "storage_bucket": "dartplayer-94fe5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762304605814:android:4cb28471e6a048a5063957",
+        "android_client_info": {
+          "package_name": "com.martini.dartplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762304605814-b1nnqsomjqvi009cu9mni2i7qc7pg5q5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfjXF1GA9KAyqPwyBTGfbiGzQxTRtTaZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762304605814-b1nnqsomjqvi009cu9mni2i7qc7pg5q5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

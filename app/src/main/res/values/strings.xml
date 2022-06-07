@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">DartPlayer</string>
+
+    <string name="Songs">Songs</string>
+    <string name="Albums">Albums</string>
+    <string name="Artists">Artists</string>
+    <string name="Playlists">Playlists</string>
+
+    <string name="settings">Settings</string>
+    <string name="back">Back</string>
+
+    <string name="search">Search</string>
+    <string name="localFiles">Local files</string>
+    <string name="scanFrequency">Scan frequency</string>
+    <string name="scanSongs">Scan songs</string>
+    <string name="scanSongsExplanation">Search for songs on your device</string>
+    <string name="automaticScan">Automatic scan</string>
+    <string name="automaticScanExplanation">Choose how often to scan your songs</string>
+
+    <string name="select">Select</string>
+    <string name="cancel">Cancel</string>
+    <string name="never">Never</string>
+    <string name="onceADay">Once a day</string>
+    <string name="twiceAWeek">Twice a week</string>
+
+    <string name="play">Play</string>
+    <string name="playNext">Play next</string>
+    <string name="playNextShuffled">Play next shuffled</string>
+    <string name="delete">Delete</string>
+    <string name="goToAlbum">Go to album</string>
+    <string name="goToArtist">Go to artist</string>
+
+    <string name="deleteArtist">Delete artist</string>
+    <string name="deleteAlbum">Delete album</string>
+    <string name="deleteSong">Delete song</string>
+
+    <string name="variousArtists">Various artists</string>
+    <string name="toDelete">To delete</string>
+
+    <string name="noSongsFound">No songs found!</string>
+    <string name="noAlbumsFound">No albums found!</string>
+    <string name="noArtistsFound">No artists found!</string>
+    <string name="noPlaylistsFound">No playlists found!</string>
+
+    <string name="yes">Yes</string>
+    <string name="more">More</string>
+    <string name="clear">Clear</string>
+
+    <string name="shuffleAlbums">Shuffle albums</string>
+    <string name="shuffleArtists">Shuffle artists</string>
+    <string name="Shuffle">Shuffle</string>
+
+    <string name="song">song</string>
+    <string name="album">album</string>
+    <string name="artist">artist</string>
+    <string name="playlist">playlist</string>
+
+    <string name="Error">Error</string>
+    <string name="somethingWentWrong">Something went wrong!</string>
+    <string name="errorGettingMusicData">Error getting music data</string>
+
+    <string name="openNavigation">Open navigation</string>
+
+    <string name="NextSong">Next song</string>
+    <string name="Pause">Pause</string>
+    <string name="Resume">Resume</string>
+    <string name="PreviousSong">Previous song</string>
+
+    <string name="RemoveAlbum">Remove album</string>
+    <string name="RemoveSong">Remove song</string>
+    <string name="RemoveArtist">Remove artist</string>
+
+    <string name="PlayerServiceNotificationName">Player service</string>
+    <string name="PlayerServiceNotificationDescription">Notification that fires when a playback is active</string>
+    <string name="PlayerServiceNotificationGroup">Media playback</string>
+
+    <string name="BackgroundServicesNotificationGroup">Background services</string>
+
+    <string name="ScanMusicServiceNotificationName">Scan songs</string>
+    <string name="ScanMusicServiceNotificationDescription">Notification that fires when the app is scanning songs</string>
+    <string name="ScanMusicServiceScanningSongs">Scanning songs</string>
+    <string name="ScanMusicServiceExplanation">We will notify you when it finishes</string>
+    <string name="ScanMusicServiceScanSuccess">Finished scan</string>
+    <string name="ScanMusicServiceScanFailure">Failed to scan songs.</string>
+
+    <string name="playerSettingsRespectAudio">Respect audio focus</string>
+    <string name="playerSettingsWillRespectAudio">%1$s will respect audio focus</string>
+    <string name="playerSettingsWillNotRespectAudio">%1$s will not respect audio focus</string>
+
+    <string name="PlayerSettings">Playback</string>
+    <string name="PlaybackMode">Playback in loop</string>
+    <string name="PlaybackModeLoop">%1$s will loop the playlist</string>
+    <string name="PlaybackModeOneTime">%1$s will not loop the playlist</string>
+
+    <string name="NowPlaying">Now playing</string>
+    <string name="UpNext">Up next</string>
+    <string name="AddToPlaylist">Add to a playlist</string>
+    <string name="RemoveFromPlaylist">Remove from playlist</string>
+    <string name="DeletePlaylist">Delete playlist</string>
+
+    <string name="Exit">Exit</string>
+
+    <string name="CreatePlaylist">Create playlist</string>
+    <string name="Create">Create</string>
+
+    <string name="Licenses">Licenses</string>
+    <string name="DataCollection">Data collection</string>
+    <string name="TechnicalData">Technical data</string>
+    <string name="TechnicalDataEx">Allow technical data collection such as errors and crashes</string>
+
+    <string name="unknown">Unknown</string>
+
+    <string name="SortOrder">Sort by</string>
+    <string name="SortAsc">Name A - Z</string>
+    <string name="SortDesc">Name Z - A</string>
+    <string name="SortDateAdded">Date added</string>
+</resources>
