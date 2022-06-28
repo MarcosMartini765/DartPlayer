@@ -130,7 +130,7 @@ dependencies {
     implementation 'com.google.accompanist:accompanist-pager:0.20.3'
 
     //Exoplayer
-    def exoplayerVersion = "2.17.1"
+    def exoplayerVersion = "2.18.0"
     implementation "com.google.android.exoplayer:exoplayer:$exoplayerVersion"
     implementation "com.google.android.exoplayer:extension-mediasession:$exoplayerVersion"
 

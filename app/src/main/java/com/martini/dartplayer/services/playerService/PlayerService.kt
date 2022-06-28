@@ -300,7 +300,7 @@ class PlayerService : LifecycleService(), Player.Listener,
     private fun createAttributes(): AudioAttributes {
         return AudioAttributes.Builder()
             .setUsage(C.USAGE_MEDIA)
-            .setContentType(C.CONTENT_TYPE_MUSIC)
+            .setContentType(C.AUDIO_CONTENT_TYPE_MUSIC)
             .build()
     }
 
@@ -453,7 +453,6 @@ class PlayerService : LifecycleService(), Player.Listener,
             .setArtist(song.artist)
             .setTitle(song.name)
             .setAlbumTitle(song.album)
-            .setMediaUri(Uri.parse(song.uri))
             .setArtworkUri(artworkUri)
             .setExtras(bundle)
             .build()
